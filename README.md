@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello!
 I'm a fresh graduate in Informatics Engineering with a strong interest in Frontend Web Development.
 I mainly work with JavaScript, React.js, Next.js, and Tailwind CSS, and I enjoy building clean, responsive, and user-friendly web interfaces.
 
